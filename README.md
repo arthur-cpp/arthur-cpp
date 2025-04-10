@@ -14,16 +14,12 @@
 
 ### 🛠 Tech stack
 
-`C` `C++` `WinAPI` `MFC` `FIX` `UDP` `TCP` `WebSocket` `Multithreading`  
-`MSVC` `VSCode` `Docker` `RabbitMQ` `ZeroMQ` `Git` `Subversion`  
-`Solidity` `Node.js` `Python` `Go`  
-`MySQL` `PostgreSQL` `Memcached`  
-`Laravel` `Nginx + WAF` `Redmine` `Hardhat`
+`C` `C++` `WinAPI` `MFC` `FIX` `UDP` `TCP` `WebSocket` `Multithreading` `MSVC` `VSCode` `Docker` `RabbitMQ` `ZeroMQ` `Git` `Subversion` `Solidity` `Node.js` `Python` `Go` `MySQL` `PostgreSQL` `Memcached` `Laravel` `Nginx + WAF` `Redmine` `Hardhat`
 
 ---
 
 ### 🐶 My side-projects
 
 **Crypto & Web3 hacks**  
-🏆 1st place — BNB Chain Zero2Hero bootcamp  
-🥉 3rd place — EncodeClub hackathon
+🏆 1st place — [BNB Chain Zero2Hero bootcamp](https://github.com/arthur-cpp/bnb-zero2hero-bootcamp)  
+🥉 3rd place — [EncodeClub hackathon](https://github.com/arthur-cpp/bnb-zero2hero-hackathon)
