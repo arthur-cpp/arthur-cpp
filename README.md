@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Arthur
 
-🇷🇺 I live somewhere in Russia.  
 💻 I'm a C/C++ Senior Software Developer and Team Lead working in low-latency, high-frequency trading systems.  
 📈 I focus on performance, architecture, and system-level programming.  
 🛠 I’ve been writing code professionally since the early 2000s – mainly in C++, but also Solidity, Go, Python, and Node.js when needed.  
