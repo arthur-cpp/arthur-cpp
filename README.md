@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Arthur
 
-💻 I'm a C/C++ Software Developer and Team Lead working in low-latency, high-frequency trading systems.  
+💻 I'm a C/C++ Software Developer working in low-latency, high-frequency trading systems.  
 📈 I focus on performance and architecture.  
 🛠 I’ve been writing code professionally since the early 2000s – mainly in C++, but also Python and Node.js when needed.  
 
