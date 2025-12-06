@@ -11,7 +11,7 @@
 
 ### 🛠 Tech stack
 
-`C/C++` `Python` `Node.js` `MSVC` `CLion` `VSCode` `Git` `Subversion` `Redmine` `Windows` `Linux` `MySQL` `PostgreSQL`
+`C/C++` `Python` `Node.js` `MSVC` `CLion` `VSCode` `Git` `Subversion` `Redmine` `Windows` `Linux`
 
 ---
 
