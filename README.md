@@ -4,6 +4,8 @@
 📈 I focus on performance and architecture.  
 🛠 I’ve been writing code professionally since the early 2000s – mainly in C++, but also Python and Node.js when needed.  
 
+« 0.99ⁿ ⌘ 1.01ⁿ »
+
 📨 Contact me: [LinkedIn](https://www.linkedin.com/in/arthur-cpp/)  
 📄 CV: available on request.
 
